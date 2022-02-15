@@ -1,6 +1,6 @@
 # **ML_python_snippets**
 
-#### **_ This repository contains the python code snippets of functions frequently used along with its libraries in a Machine Learning workflow. _**
+#### ***This repository contains the python code snippets of functions frequently used along with its libraries in a Machine Learning workflow.***
 
 ---
 
