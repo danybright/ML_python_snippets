@@ -5,7 +5,8 @@
 ---
 
 > _It can be better to copy a little code than to pull in a big library for one function. Dependency hygiene trumps code reuse._
-> <br/>_~ ROB PIKE_
+> <br/>
+> _~ ROB PIKE_
 
 ---
 
