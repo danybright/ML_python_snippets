@@ -1,10 +1,16 @@
 # **ML_python_snippets**
 
-
-#### ***This repository contains the python code snippets of functions frequently used along with its libraries in a Machine Learning workflow.***
+#### **_ This repository contains the python code snippets of functions frequently used along with its libraries in a Machine Learning workflow. _**
 
 ---
+
+> _It can be better to copy a little code than to pull in a big library for one function. Dependency hygiene trumps code reuse._
+> <br/>_~ ROB PIKE_
+
+---
+
 ### **TABLE OF CONTENT**
+
 ---
 
 1.Importing basic machine learning libraries.
